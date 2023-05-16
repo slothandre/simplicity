@@ -1,0 +1,1 @@
+Site fictício criado durante a Qualificação Técnica de Frontend no curso Técnico em Informática para Internet utilizando algumas APIs e jQuery
